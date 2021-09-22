@@ -32,4 +32,5 @@ tak si tieto 2 sekundy odpočíta pre istotu už samotný script a začne regist
 V nultej iterácií klikne na tlačidlo prihlásiť a obnový stránku.
 Ak sa mu nepodarilo prihlásiť tak to skúša znovu a znovu až kým nedosiahne maximálny počet iterácií a to je 10.
 Po každom obnovení stránky čaká až sa tlačidlo stane viditeľným až potom naň klikne.
+Ak sa termín podarí registrovať tak skript na tlačidlo už nekliká.
 ```
